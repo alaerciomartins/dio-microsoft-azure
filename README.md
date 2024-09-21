@@ -39,6 +39,9 @@ Este repositório contém um resumo das lições aprendidas durante o desenvolvi
    - **PaaS (Platform as a Service):** Oferece uma plataforma gerenciada para construir e implantar aplicativos sem se preocupar com a infraestrutura subjacente.
    - **SaaS (Software as a Service):** Proporciona acesso a aplicativos prontos para uso na nuvem, minimizando o gerenciamento de software e infraestrutura.
 
+     ![image](https://github.com/user-attachments/assets/fc5a8963-a21c-4118-b9e6-6bf5467d7e49)
+
+
 5. **Modelo de Responsabilidade Compartilhada**  
    - Define as obrigações entre o Azure e o cliente, assegurando que ambas as partes cumpram suas responsabilidades de segurança e gestão.
 
