@@ -40,6 +40,4 @@ A adoção da computação em cloud e serviços como o Microsoft Azure é uma te
 
 > **Nota:** Este repositório faz parte do desafio proposto pela DIO, focado na construção de um perfil de destaque no GitHub. Explore, aprenda e aplique!
 
-📌 **Link do Desafio:** [DIO](https://www.dio.me/)
-
 ---
