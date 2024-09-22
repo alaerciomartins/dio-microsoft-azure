@@ -12,6 +12,7 @@ Os Grupos de Recursos são a base para organizar e gerenciar recursos no Azure. 
 - **Criação e Gerenciamento:**  
   Grupos de recursos podem ser criados através do portal Azure, CLI (Command Line Interface) ou PowerShell, permitindo agrupar e gerenciar recursos de forma centralizada.
 
+![image](https://github.com/user-attachments/assets/0c0cd746-b06a-4895-90bd-51431b51a552)
 
 - **Aplicação de Políticas:**  
   Políticas podem ser aplicadas a grupos de recursos para garantir conformidade, segurança e uso adequado dos recursos. Isso inclui a configuração de regras para governança e gerenciamento de custos.
