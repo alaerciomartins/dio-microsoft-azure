@@ -37,6 +37,7 @@ Este documento descreve o processo de criação de máquinas virtuais (VMs) na p
 ### 7. Revisar e Criar
 - Revise todas as configurações e clique em **Criar** para iniciar a implementação da VM.
 
+![image](https://github.com/user-attachments/assets/4c5b1744-9b18-47c5-8766-4144cc82bf16)
 
 
 ---
