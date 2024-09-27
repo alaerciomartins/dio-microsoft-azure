@@ -27,6 +27,7 @@ O Azure oferece diversas opções de armazenamento para atender a diferentes nec
 
 ---
 
+![image](https://github.com/user-attachments/assets/f0e3ee9f-3387-4790-bd34-12914b2c8b21)
 
 
 ## 🛠️ **Boas Práticas de Configuração e Gerenciamento**
